@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 92" role="img" aria-labelledby="title desc">
+  <title id="title">Казахтелеком</title>
+  <desc id="desc">Логотип Казахтелекома</desc>
+  <g fill="none" stroke="#fff" stroke-width="5">
+    <circle cx="44" cy="46" r="30"/>
+    <path d="M19 39c17 12 33 12 50 0"/>
+    <path d="M19 53c17 12 33 12 50 0"/>
+    <path d="M35 18c-7 18-7 38 0 56"/>
+    <path d="M53 18c7 18 7 38 0 56"/>
+  </g>
+  <text x="94" y="58" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700" letter-spacing="1.5">КАЗАХТЕЛЕКОМ</text>
+</svg>
